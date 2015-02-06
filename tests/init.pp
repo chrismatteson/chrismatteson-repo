@@ -1,1 +1,4 @@
-include chrismatteson-repo
+#include repo
+class {'repo':
+  repo => 'epel',
+}

@@ -1,0 +1,4 @@
+---
+:hierarchy:
+  - "nginx/%{operatingsystem}"
+  - "common"
