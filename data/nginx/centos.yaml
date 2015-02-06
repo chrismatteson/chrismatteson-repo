@@ -1,0 +1,4 @@
+repotitle: nginx
+reponame: nginx repo
+repobaseurl: http://nginx.org/packages/centos/$releasever/$basearch/
+repogpgcheck: 0
